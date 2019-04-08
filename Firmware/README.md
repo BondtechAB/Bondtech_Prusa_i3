@@ -1,5 +1,5 @@
 
-# bondtech_fw_MK3S_3_7_0
+# bondtech_fw_MK3S_3_7_0.hex
 
 2019-04-08
 
