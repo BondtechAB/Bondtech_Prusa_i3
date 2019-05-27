@@ -8,7 +8,7 @@ Based on 3.7.0 stable version of Prusa-firmware.
 
 # Bondtech specific changes
 1. Estep set to 830.
-2. Adjusted Z_MAX_POS to allow Z and XYZ calibration.
+2. Z_MAX_POS 203 to allow Z and XYZ calibration.
 3. Changed printer name.
 
 Compiled from https://github.com/lejo1512/Prusa-Firmware
