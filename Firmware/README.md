@@ -1,7 +1,7 @@
 
 # bondtech_fw_MK3S_3_7_2.hex for MK3s
 
-2019-04-08
+2019-07-12
 
 Compiled firmware to support Bondtech Prusa i3 MK3s. 
 
