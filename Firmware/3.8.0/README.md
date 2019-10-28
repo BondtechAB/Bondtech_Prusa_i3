@@ -10,7 +10,7 @@ Compiled firmware to support Bondtech Prusa i3 MK25s / MK3s, MK25s / MK3s Mosqui
 - Variants for Slice Engineerings High temperature thermistor (SE_HT-thermistor)
 - Adjusted Load/Unload filament sequence
 - MK3/MK3s: Changed mirostep resolution to 16
-- MK3s: Changed Z_MAX_POS 205 to allow Z and XYZ calibration
+- MK3s/MK25s: Changed Z_MAX_POS 205 to allow Z and XYZ calibration
 
 
 ##  MK3s Changes
