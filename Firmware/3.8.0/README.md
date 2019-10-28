@@ -1,5 +1,5 @@
 
-# 3.8.0 Firmware for Bondtech Prusa i3 MK25, MK25s, MK3, MK3s and MK25s / MK3s Mosquito
+# 3.8.0 Firmware for Bondtech Prusa i3 MK25 / MK3,  MK25s / MK3s and MK25s / MK3s Mosquito
 
 2019-09-11
 
