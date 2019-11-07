@@ -3,7 +3,7 @@ Bondtech extruder upgrade for Prusa i3 printer uses 3:1 gearing ratio for improv
 
 ### Links
 * Bondtech's Website: https://bondtech.se/en
-* Assembly manual: https://www.bondtech.se/wp-content/uploads/2019/01/Assembly-manual-Bondtech_Prusa_i3_V1.0.pdf
+* Assembly manual: https://support.bondtech.se/c/Prusa
 
 ### Contributors
 This project was a Co-development with people from the Prusa community that have provided excellent feedback and suggestions of how to develop the "perfect" extruder setup for the Prusa series printer.
